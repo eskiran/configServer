@@ -1,0 +1,8 @@
+---
+spring:
+  application:
+    name: ocgp-cloud-refresh
+  profiles: dev
+inventory:
+  initial:
+    mode: Regular123

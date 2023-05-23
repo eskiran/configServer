@@ -5,4 +5,4 @@ spring:
   profiles: dev
 inventory:
   initial:
-    mode: Regular888
+    mode: updatedAt0830PM

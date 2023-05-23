@@ -5,4 +5,4 @@ spring:
   profiles: dev
 inventory:
   initial:
-    mode: Regular777
+    mode: Regular888

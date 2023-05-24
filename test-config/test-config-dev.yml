@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: test-config
+  config:
+    activate:
+      on-profile: dev
+inventory:
+  initial:
+    mode: updatedAt052420231114PM

@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: test-config-version1
-inventory:
-  initial:
-    mode: updatedAt052420231055PM

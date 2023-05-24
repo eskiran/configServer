@@ -1,7 +1,0 @@
----
-spring:
-  application:
-    name: ocgp-cloud-refresh
-inventory:
-  initial:
-    mode: updatedAt052420230112PMPM

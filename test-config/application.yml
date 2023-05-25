@@ -1,1 +1,9 @@
-
+spring:
+  application:
+    name: test-config
+  profile: default
+inventory:
+  initial:
+    mode: modeDefault052520231430PM
+cnj:
+  message: messageDefault052520231430PM

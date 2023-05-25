@@ -4,6 +4,6 @@ spring:
   profile: default
 inventory:
   initial:
-    mode: modeDefault052520231430PM
+    mode: modeDefault052520231630PM
 cnj:
-  message: messageDefault052520231430PM
+  message: messageDefault052520231630PM

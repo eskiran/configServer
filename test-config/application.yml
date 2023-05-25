@@ -6,6 +6,6 @@ spring:
       on-profile: default
 inventory:
   initial:
-    mode: updatedAt052420231118PM
+    mode: updatedDafaultAt052520231219PM
 cnj:
   message: updatedcnjMessageAt052520231010AM

@@ -4,6 +4,6 @@ spring:
   profile: qa
 inventory:
   initial:
-    mode: modeQA052520231430PM
+    mode: modeQAUpdatedAt3PM
 cnj:
   message: messageQA052520231430PM

@@ -1,9 +1,7 @@
 spring:
   application:
     name: test-config
-  config:
-    activate:
-      on-profile: dev
+  profile: dev
 inventory:
   initial:
     mode: updatedDevAt052520231220PM

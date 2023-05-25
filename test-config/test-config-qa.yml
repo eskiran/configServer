@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: test-config
+  config:
+    activate:
+      on-profile: qa
+inventory:
+  initial:
+    mode: updatedQaAt052520231220PM

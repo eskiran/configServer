@@ -4,6 +4,6 @@ spring:
   profile: dev
 inventory:
   initial:
-    mode: modeDEVUpdatedAt3PM
+    mode: modeDEVUpdatedAt9:30PM
 cnj:
-  message: messageDEV
+  message: messageDEVUpdatedAt09:30 PM

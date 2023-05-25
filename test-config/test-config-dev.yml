@@ -6,4 +6,4 @@ spring:
       on-profile: dev
 inventory:
   initial:
-    mode: updatedAt052420231114PM
+    mode: updatedDevAt052520231220PM

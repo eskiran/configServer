@@ -7,3 +7,5 @@ spring:
 inventory:
   initial:
     mode: updatedQaAt052520231220PM
+cnj:
+  message: qa

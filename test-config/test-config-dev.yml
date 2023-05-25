@@ -7,3 +7,5 @@ spring:
 inventory:
   initial:
     mode: updatedDevAt052520231220PM
+cnj:
+  message: dev

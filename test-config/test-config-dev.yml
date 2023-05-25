@@ -1,1 +1,9 @@
-
+spring:
+  application:
+    name: test-config
+  profile: dev
+inventory:
+  initial:
+    mode: modeFrom-test-config-dev
+cnj:
+  message: messageFrom-test-config-dev

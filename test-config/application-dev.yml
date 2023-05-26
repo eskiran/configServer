@@ -5,3 +5,5 @@ spring:
 inventory:
   initial:
     mode: modeDEVUpdatedAt052620230113PM
+cnj:
+  message: Hello

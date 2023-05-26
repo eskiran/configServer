@@ -5,5 +5,3 @@ spring:
 inventory:
   initial:
     mode: modeDefault052520231630PM
-cnj:
-  message: messageDefault052520231630PM

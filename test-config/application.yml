@@ -2,6 +2,8 @@ spring:
   application:
     name: test-config
   profile: default
-inventory:
-  initial:
-    mode: modeDefault053120231340PM
+ocgp-gaming-orchestrator:
+  uca:
+    apim-subscription-key: 328431d6352c4797892a1e944f4f6c9e
+    uri: /abs/qapub/cnc/ucaservice/api/uca/customers/
+    internal-uri: /abs/qapub/cnc/ucaservice/api/uca/internal/customers/

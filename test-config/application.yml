@@ -4,4 +4,4 @@ spring:
   profile: default
 inventory:
   initial:
-    mode: modeDefault053120231335PM
+    mode: modeDefault053120231340PM

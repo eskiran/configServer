@@ -4,6 +4,6 @@ spring:
   profile: dev
 inventory:
   initial:
-    mode: modeDEVUpdatedAt052620230113PM
+    mode: modeDEVUpdatedAt060120231453PM
 cnj:
   message: Hello

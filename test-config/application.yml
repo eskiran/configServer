@@ -2,6 +2,9 @@ spring:
   application:
     name: test-config
   profile: default
+inventory:
+  initial:
+    mode: ModeDefaultUpdatedAt1430PM
 ocgp-gaming-orchestrator:
   uca:
     apim-subscription-key: 328431d6352c4797892a1e944f4f6c9e

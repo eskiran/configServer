@@ -1,1 +1,9 @@
-
+spring:
+  application:
+    name: test-config1234
+  profile: dev
+inventory:
+  initial:
+    mode: modeFrom-new-fold-default01060948PM
+cnj:
+  message: messageFrom-test-config-default01060948PM

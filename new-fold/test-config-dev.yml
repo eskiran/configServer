@@ -4,6 +4,6 @@ spring:
   profile: dev
 inventory:
   initial:
-    mode: modeFrom-new-fold-dev0538PM
+    mode: modeFrom-new-fold-dev060520230418PM
 cnj:
   message: messageFrom-test-config-dev
